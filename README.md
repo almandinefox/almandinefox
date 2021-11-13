@@ -18,10 +18,9 @@
 <p>
 <img src="https://user-images.githubusercontent.com/94206521/141607606-49b511dc-9032-4a67-87f2-93e0876a88b6.png" width="50" height="50" alt="HTML">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png" width="40" height="40" alt="Bash">
-<img src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" width="40" height="40" alt="GitHub">
 <p><br>
   
-**Tools I will learn:**
+**Tools I will learn soon:**
 <p>
 <img src="https://www.logolynx.com/images/logolynx/63/632150f28960cba513ff90fb97813286.png" width="50" height="40" alt="Blender">
 &nbsp;<img src="https://cdn-images-1.medium.com/max/1200/1*grcYwW_zgkpzP0VEsh3vOg.png" width="40" height="40" alt="Arduino">
