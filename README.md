@@ -28,7 +28,7 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 <p>
 <img src="https://www.logolynx.com/images/logolynx/63/632150f28960cba513ff90fb97813286.png" width="50" height="40" alt="Blender">
 &nbsp;<img src="https://cdn-images-1.medium.com/max/1200/1*grcYwW_zgkpzP0VEsh3vOg.png" width="40" height="40" alt="Arduino">
-&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="40" alt="MatLab"> /
+&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="40" alt="MatLab">
 &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="45" height="40" alt="GNU Octave">
 <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="40" height="40" alt="Arch">
 
