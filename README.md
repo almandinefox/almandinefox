@@ -14,7 +14,7 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 <img src="https://github.com/almandinefox/images/blob/main/crop?raw=true" width="40" height="40" alt="PTC Creo">
 &nbsp;<img src="https://user-images.githubusercontent.com/94206521/141606881-9e1f60ba-3407-4e49-9eb6-407e31e454e8.png" width="40" height="40" alt="Ultimaker Cura">
 &nbsp;<img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" width="40" height="40" alt="PopOS">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/400px-Garuda-blue-sgs.svg.png" width="60" height="60" alt="Garuda">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/400px-Garuda-blue-sgs.svg.png" width="50" height="50" alt="Garuda">
 &nbsp;<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="Python">
 <p><br>
   
