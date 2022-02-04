@@ -14,6 +14,7 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 <img src="https://github.com/almandinefox/images/blob/main/crop?raw=true" width="40" height="40" alt="PTC Creo">
 &nbsp;<img src="https://user-images.githubusercontent.com/94206521/141606881-9e1f60ba-3407-4e49-9eb6-407e31e454e8.png" width="40" height="40" alt="Ultimaker Cura">
 &nbsp;<img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" width="40" height="40" alt="PopOS">
+<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="50" height="50" alt="Python">
 <p><br>
   
 **Tools I am learning to use effectively:**
@@ -27,7 +28,6 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 <img src="https://www.logolynx.com/images/logolynx/63/632150f28960cba513ff90fb97813286.png" width="50" height="40" alt="Blender">
 &nbsp;<img src="https://cdn-images-1.medium.com/max/1200/1*grcYwW_zgkpzP0VEsh3vOg.png" width="40" height="40" alt="Arduino">
 &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="45" height="40" alt="MatLab">
-<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="50" height="50" alt="Python">
 <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="40" height="40" alt="Arch">
 
 <!---
