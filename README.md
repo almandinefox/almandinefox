@@ -33,6 +33,11 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gnu-octave-logo.svg/1024px-Gnu-octave-logo.svg.png" width="45" height="40" alt="GNU Octave">
 <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="40" height="40" alt="Arch">
 
+  
+  ### Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almandinefox&layout=compact)
+  
 <!---
 almandinefox/almandinefox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
