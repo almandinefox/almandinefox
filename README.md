@@ -23,7 +23,6 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 <img src="https://user-images.githubusercontent.com/94206521/141607606-49b511dc-9032-4a67-87f2-93e0876a88b6.png" width="50" height="50" alt="HTML">
 &nbsp;<img src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" width="40" height="40" alt="Python">
 &nbsp;<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/ees_icon.png?itok=YFA05BbW" width="40" height="40" alt="Engineering Equation Solver">
-&nbsp;<img src="https://raw.githubusercontent.com/github/explore/7af95003139e68a3a54e382bb4f23a72836ef348/topics/altium-designer/altium-designer.png" width="40" height="40" alt="Altium Designer">
 <p><br>
   
 **Tools I will learn soon:**
