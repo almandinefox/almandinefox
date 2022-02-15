@@ -16,7 +16,8 @@ So this README.md is somewhat of a checklist for me to learn how to use more dig
 &nbsp;<img src="https://avatars.githubusercontent.com/u/33131755?s=200&v=4" width="40" height="40" alt="PopOS">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Garuda-blue-sgs.svg/400px-Garuda-blue-sgs.svg.png" width="50" height="50" alt="Garuda">
 &nbsp;<img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo.png" width="62" height="40" alt="Microsoft Excel">
-<p><br> &nbsp;<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/ees_icon.png?itok=YFA05BbW" width="40" height="40" alt="Engineering Equation Solver">
+<p><br> 
+&nbsp;<img src="https://www.it.unlv.edu/sites/default/files/styles/250_width/public/sites/default/files/assets/software/icons/ees_icon.png?itok=YFA05BbW" width="40" height="40" alt="Engineering Equation Solver">
   
 **Tools I am learning to use effectively:**
 <p>
