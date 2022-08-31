@@ -1,6 +1,6 @@
 🦊 Hey, I'm fox. 
 
-- 🌱 I’m a college student studying mechanical engineering. My skillset is in CAD and mechanics.
+- 🌱 I’m a college student studying mechanical engineering. I'm also an HVAC Engineering Intern for John Wood Group PLC. 
 - 🌿 I love to be creative, and to try and make cool stuff. 
 - 🌳 More than that, I love to learn new things. And I've still got a lot of learning to do. <p><br>
 So this README.md is somewhat of a checklist for me to learn how to use more digital tools- so i can make cooler stuff.
